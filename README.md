@@ -34,3 +34,14 @@ It is simply a test of how much you have been following the course. </p>
 </pre>
 </body>
 </html>
+
+
+var name;
+name = Bassey Enoabasi;
+var courses = ["html","css","javascript"]
+
+var i;
+for (i = 1; i < 200; i++){
+document.write("<br>"+ i);
+i = 1+ i;
+} 
